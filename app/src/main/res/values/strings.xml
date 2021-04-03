@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My SQLite</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_nim">Masukkan Nim</string>
+    <string name="masukkan_prodi">Masukkan Prodi</string>
+    <string name="gambar">gambar</string>
+    <string name="informasi_mahasiswa">Informasi Mahasiswa</string>
+    <string name="nama">Nama</string>
+    <string name="prodi">Prodi</string>
+    <string name="nim">Nim</string>
+    <string name="simpan">Simpan</string>
+    <string name="logo">logo</string>
+    <string name="background">background</string>
+    <string name="view_all">View All</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="masukkan_jurusan">Masukkan Jurusan</string>
+    <string name="update">UPDATE</string>
+    <string name="masukkan_no">Masukkan No</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+</resources>
